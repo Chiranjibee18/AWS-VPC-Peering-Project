@@ -6,6 +6,8 @@ In this project, I implemented AWS VPC Peering to establish private communicatio
 
 I completed the project using the AWS Management Console in the Mumbai Region (`ap-south-1`).
 
+![VPC Peering Architecture Diagram](./c6f55f3b-23d1-4ee8-904c-217ee701804d.jpeg)
+
 ## 1. Creating and Configuring VPCs
 
 First, I created two VPCs: VPC-A and VPC-B. VPC-A uses the CIDR block `10.0.0.0/16`, while VPC-B uses `10.1.0.0/16`. These non-overlapping CIDR ranges allow the two networks to communicate through VPC Peering.
