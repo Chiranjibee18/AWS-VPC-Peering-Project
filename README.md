@@ -4,10 +4,12 @@
 [![Region](https://img.shields.io/badge/Region-ap--south--1%20(Mumbai)-FF9900)](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
 [![VPC Peering](https://img.shields.io/badge/Service-VPC%20Peering-blue)](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
 [![Security](https://img.shields.io/badge/Access-SSH%20ProxyJump%20(Keyless)-green)](https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Proxies_and_Jump_Hosts)
+[![Report PDF](https://img.shields.io/badge/Report-Download%20Submission%20PDF-red?logo=adobeacrobatreader&logoColor=white)](./Chiranjibee_Panigrahi_EWB_VPC_Peering.pdf)
 
 > **Student Project Workbook & Implementation Defense**  
 > **Course:** AWS Certified Solutions Architect Associate / Cloud Networking Lab  
 > **Author:** Chiranjibee Panigrahi  
+> **Evaluation Deliverable:** [Official Submission Report PDF (10 Pages)](./Chiranjibee_Panigrahi_EWB_VPC_Peering.pdf)  
 > **Status:** Successfully Deployed, Tested, and Verified with 0% Packet Loss  
 
 ---
